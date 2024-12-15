@@ -4,7 +4,7 @@
 
 Neste gráfico, observamos que os usuários casuais têm um tempo médio de viagem maior do que os usuários anuais. Além disso, em ambos os casos, há um aumento nas viagens durante o fim de semana, com os usuários anuais apresentando menor variação no número de viagens ao longo da semana. Já os usuários casuais realizam mais viagens em dias próximos ao fim de semana, como segunda-feira e sexta-feira.
 
-![Figura 1](insights/Figure_1.png)
+![Figura 1](./Figure_1.png)
 
 ## Contagem de Bicicletas por Dia da Semana e Tipo de Usuário
 
@@ -12,7 +12,7 @@ Observamos um aumento no uso de bicicletas do tipo Classic e Electric durante os
 
 O tipo de bicicleta *Electric Scooter* foi desconsiderado da análise por não apresentar dados suficientes, além de prejudicar a visualização dos demais resultados.
 
-![Figura 2](insights/Figure_2.png)
+![Figura 2](./Figure_2.png)
 
 ## Insights dos Dados
 
